@@ -1,4 +1,4 @@
-# Dillinger
+# Docker Laravel Environment
 
 This repository gives you a basic configuration for running laravel on Docker in your local environment.
 
